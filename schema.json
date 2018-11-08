@@ -1,0 +1,98 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "id",
+      "type": "STRING"
+    },
+    {
+      "name": "service_date",
+      "type": "DATE"
+    },
+    {
+      "name": "vehicle_number",
+      "type": "INT64"
+    },
+    {
+      "name": "leave_time",
+      "type": "TIME"
+    },
+    {
+      "name": "train",
+      "type": "INT64"
+    },
+    {
+      "name": "route_number",
+      "type": "INT64"
+    },
+    {
+      "name": "direction",
+      "type": "INT64"
+    },
+    {
+      "name": "service_key",
+      "type": "STRING"
+    },
+    {
+      "name": "trip_number",
+      "type": "INT64"
+    },
+    {
+      "name": "stop_time",
+      "type": "TIME"
+    },
+    {
+      "name": "arrive_time",
+      "type": "TIME"
+    },
+    {
+      "name": "dwell",
+      "type": "TIME"
+    },
+    {
+      "name": "location_id",
+      "type": "INT64"
+    },
+    {
+      "name": "door",
+      "type": "INT64"
+    },
+    {
+      "name": "lift",
+      "type": "INT64"
+    },
+    {
+      "name": "ons",
+      "type": "INT64"
+    },
+    {
+      "name": "offs",
+      "type": "TIME"
+    },
+    {
+      "name": "maximum_speed",
+      "type": "INT64"
+    },
+    {
+      "name": "train_mileage",
+      "type": "FLOAT64"
+    },
+    {
+      "name": "pattern_distance",
+      "type": "INT64"
+    },
+    {
+      "name": "location_distance",
+      "type": "INT64"
+    },
+    {
+      "name": "x_coordinate",
+      "type": "FLOAT64"
+    },
+    {
+      "name": "y_coordinate",
+      "type": "FLOAT64"
+    }
+
+
+  ]
+}
